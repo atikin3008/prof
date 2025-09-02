@@ -1,0 +1,3 @@
+motorcortex-python>=0.22.5
+motorcortex-robot-control-python>=3.0.0
+pypng==0.0.20

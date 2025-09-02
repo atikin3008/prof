@@ -1,0 +1,16 @@
+Metadata-Version: 2.1
+Name: motion
+Version: 0.0.2
+Summary: Библиотека управления движением ARM серии
+Home-page: UNKNOWN
+Author: Mikhail Filchenkov
+Author-email: m.filchenkov@gmail.com
+License: MIT
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.10
+
+UNKNOWN
+

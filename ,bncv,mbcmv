@@ -1,0 +1,561 @@
+Init
+Connecting to robot at 192.168.2.100:5568:5567
+Robot ARM connected successfully
+Connect
+INFO: Actual robot state isn't cartesian mode
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveC with 6 waypoints, angle: 0
+Program 'move_to_point_c' sent with 1 moves
+ERROR: MoveC failed: 'int' object has no attribute 'values'
+Tool OFF
+INFO: Actual robot state isn't joint mode
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
+Semi-auto mode set
+Added MoveJ with 6 waypoints
+Program 'move_to_point_j' sent with 1 moves
+ERROR: MoveJ failed: 'int' object has no attribute 'values'
+Tool OFF
